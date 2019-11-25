@@ -29,3 +29,4 @@ Scenario   | Approaches
 Single Group | <ul><li>Life Table (Actuarial Estimation)<li>Kaplan-Meier<li>Nelson-Aalen Cumulative Hazard Estimation</ul>
 Comparison of Groups | <ul><li>Logrank Test<li>Wilcoxon Test</ul>
 Semi-parametric estimation model | <ul><li>Cox proportional hazard model(allows explanatory variables)</ul>
+Parametric model (accelerated lifetime model) | <ul><li>Exponential<li>Gompertz distribution<li>Weibull distribution<li>Lognormal distribution<li>Loglogistic distribution</ul>
