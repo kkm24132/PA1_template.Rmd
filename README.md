@@ -22,3 +22,9 @@
 - When will a customer buy a give product next?
 - What is the customer lifetime value (CLV) based on their past behaviour ad their profile?
 
+## Survival Analysis Techniques
+
+Scenario   | Approaches
+-----------|-------------
+<ul><li>Single Group</ul>|<ul><li>Life Table (Actuarial Estimation) <li>Kaplan-Meier</ul>
+<ul><li>Single Group</ul>|<ul><li>Life Table (Actuarial Estimation) <li>Kaplan-Meier</ul>
