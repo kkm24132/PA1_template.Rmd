@@ -30,3 +30,12 @@ Single Group | <ul><li>Life Table (Actuarial Estimation)<li>Kaplan-Meier<li>Nels
 Comparison of Groups | <ul><li>Logrank Test<li>Wilcoxon Test</ul>
 Semi-parametric estimation model | <ul><li>Cox proportional hazard model(allows explanatory variables)</ul>
 Parametric model (accelerated lifetime model) | <ul><li>Exponential<li>Gompertz distribution<li>Weibull distribution<li>Lognormal distribution<li>Loglogistic distribution</ul>
+
+## Example of Hazard Function: The Classic Bathtub Curve
+
+![The Classic Bathtub Curve](/figure/TheClassicBathtubCurve.png)
+
+The lifetime of a population is often described using a graphical representation called the bathtub curve. The bathtub curve consists of three periods:
+- an infant mortality period with a decreasing failure rate
+- a normal life period or "useful life" with a low and relatively constant failure rate
+- wear-out period that exhibits an increasing failure rate
