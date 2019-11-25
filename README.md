@@ -40,7 +40,7 @@ Parametric model (accelerated lifetime model) | <ul><li>Exponential<li>Gompertz 
   - Type I and Type II
   - Random
 
-- How informative is censoring?
+- How Censoring is Informative?
 ![Illustration of Censored Data from Balavarca](/figure/SampleCensoredData_From_Balavarca.png)
 
 - Crucial but unavoidable assumption
