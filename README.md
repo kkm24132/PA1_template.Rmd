@@ -26,5 +26,5 @@
 
 Scenario   | Approaches
 -----------|-------------
-<ul><li>Single Group</ul>|<ul><li>Life Table (Actuarial Estimation) <li>Kaplan-Meier</ul>
-<ul><li>Single Group</ul>|<ul><li>Life Table (Actuarial Estimation) <li>Kaplan-Meier</ul>
+Single Group | <ul><li>Life Table (Actuarial Estimation)<li>Kaplan-Meier<li>Nelson-Aalen Cumulative Hazard Estimation</ul>
+Comparison of Groups | <ul><li>Logrank Test<li>Wilcoxon Test</ul>
