@@ -19,8 +19,8 @@
 - How do particular customer characteristics (often called **covariates**) affect the probability of attrition?
 - What is the average time spent in the system of a group of individuals?
 - What is the comparative time until attrition between two or more groups?
-- When will a customer buy a give product next?
-- What is the customer lifetime value (CLV) based on their past behaviour ad their profile?
+- When will a customer buy a given product next?
+- What is the customer lifetime value (CLTV) based on their past behaviour ad their profile?
 
 ## Survival Analysis Techniques
 
