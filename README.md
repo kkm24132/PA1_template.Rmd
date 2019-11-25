@@ -31,6 +31,25 @@ Comparison of Groups | <ul><li>Logrank Test<li>Wilcoxon Test</ul>
 Semi-parametric estimation model | <ul><li>Cox proportional hazard model(allows explanatory variables)</ul>
 Parametric model (accelerated lifetime model) | <ul><li>Exponential<li>Gompertz distribution<li>Weibull distribution<li>Lognormal distribution<li>Loglogistic distribution</ul>
 
+## Censoring
+
+- Types 
+  - Right-censoring
+  - Left-censoring
+  - Interval-censoring
+  - Type I and Type II
+  - Random
+
+- How informative is censoring?
+![Illustration of Censored Data from Balavarca](/figure/SampleCensoredData_From_Balavarca.png)
+
+- Crucial but unavoidable assumption
+- Examples:
+  - An employee who was terminated by an employer
+  - A term-insurance customer who drops out 
+  - A customer who dies in a customer-loyalty study
+  - A customer of TWC who shift's outside TWC's service area
+  
 ## Example of Hazard Function: The Classic Bathtub Curve
 
 ![The Classic Bathtub Curve](/figure/TheClassicBathtubCurve.png)
